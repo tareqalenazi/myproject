@@ -29,6 +29,7 @@ def get_filters():
             continue
         else:
             break
+            
     # TO DO: get user input for month (all, january, february, ... , june)
 
     while True:
