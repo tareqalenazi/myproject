@@ -38,6 +38,7 @@ def get_filters():
             continue
         else:
             break
+            
     # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
 
     while True:
