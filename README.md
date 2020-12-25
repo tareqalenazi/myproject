@@ -12,4 +12,4 @@ you will make use of Python to explore data related to bike share systems for th
 
 ### Files used
 
-bikeshare_2.py, chicago.csv, new_york_city.csv and washington.csv
+bikeshare_2.py , chicago.csv, new_york_city.csv and washington.csv
